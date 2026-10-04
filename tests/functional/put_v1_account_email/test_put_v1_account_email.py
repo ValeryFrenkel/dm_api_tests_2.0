@@ -26,7 +26,7 @@ def test_post_v1_account_login():
 
     account_helper = AccountHelper(dm_api_account=account, mailhog=mailhog)
 
-    login = 'tony_soprano54'
+    login = 'tony_soprano69'
     password = '12345678'
     email = f'{login}@mail.ru'
 
